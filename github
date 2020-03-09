@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    width: 100vw;
+}
+.navbarbackground{
+    color: brown;
+}
+.navbar{
+    width: 100%;
+    color: white;
+    margin: 0;
+    padding: 0;
+    width: 25;
+}
